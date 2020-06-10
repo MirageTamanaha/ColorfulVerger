@@ -28,9 +28,17 @@ namespace ColorfulVerger.Controllers
         }
         public ActionResult Contact2()
         {
-            
 
-            return View("colorfulverger"); 
 
+            return View("colorfulverger");
+
+        }
+        public ActionResult Contact3()
+        {
+
+
+            return View("colorfulverger");
+
+        }
     }
-}
+    }
