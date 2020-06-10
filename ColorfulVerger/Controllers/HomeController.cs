@@ -40,5 +40,14 @@ namespace ColorfulVerger.Controllers
             return View("colorfulverger");
 
         }
+        public ActionResult Satou01()
+        {
+
+
+            return View("colorfulverger");
+
+        }
+
+
     }
     }
