@@ -33,7 +33,7 @@ namespace ColorfulVerger.Controllers
             return View("colorfulverger");
 
         }
-        public ActionResult Contact3()
+        public ActionResult Contact33
         {
 
 
